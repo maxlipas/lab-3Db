@@ -1,0 +1,14 @@
+C:\Users\the best\source\repos\lab3DB\lab3DB\bin\Debug\net9.0\#1.exe
+C:\Users\the best\source\repos\lab3DB\lab3DB\bin\Debug\net9.0\#1.deps.json
+C:\Users\the best\source\repos\lab3DB\lab3DB\bin\Debug\net9.0\#1.runtimeconfig.json
+C:\Users\the best\source\repos\lab3DB\lab3DB\bin\Debug\net9.0\#1.dll
+C:\Users\the best\source\repos\lab3DB\lab3DB\bin\Debug\net9.0\#1.pdb
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\#1.AssemblyInfoInputs.cache
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\#1.AssemblyInfo.cs
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\#1.csproj.CoreCompileInputs.cache
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\#1.dll
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\refint\#1.dll
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\#1.pdb
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\#1.genruntimeconfig.cache
+C:\Users\the best\source\repos\lab3DB\lab3DB\obj\Debug\net9.0\ref\#1.dll
