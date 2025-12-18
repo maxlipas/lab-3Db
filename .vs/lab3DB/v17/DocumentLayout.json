@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\the best\\source\\repos\\lab3DB\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-3Db\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12A06893-F5CA-4AF1-AB5D-EB38B0A3C897}|lab3DB\\#1.csproj|c:\\users\\the best\\source\\repos\\lab3db\\lab3db\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF8A012B-C707-43AA-96A8-2643369CDB04}|#2\\#2.csproj|c:\\users\\\u043F\u043A\\source\\repos\\lab-3db\\#2\\#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8A012B-C707-43AA-96A8-2643369CDB04}|#2\\#2.csproj|solutionrelative:#2\\#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A06893-F5CA-4AF1-AB5D-EB38B0A3C897}|lab3DB\\#1.csproj|c:\\users\\\u043F\u043A\\source\\repos\\lab-3db\\lab3db\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12A06893-F5CA-4AF1-AB5D-EB38B0A3C897}|lab3DB\\#1.csproj|solutionrelative:lab3db\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A06022DD-BC85-400A-8477-EB8D414BF55D}|#3\\#3.csproj|c:\\users\\the best\\source\\repos\\lab3db\\#3\\#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A06022DD-BC85-400A-8477-EB8D414BF55D}|#3\\#3.csproj|c:\\users\\\u043F\u043A\\source\\repos\\lab-3db\\#3\\#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06022DD-BC85-400A-8477-EB8D414BF55D}|#3\\#3.csproj|solutionrelative:#3\\#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF8A012B-C707-43AA-96A8-2643369CDB04}|#2\\#2.csproj|c:\\users\\the best\\source\\repos\\lab3db\\#2\\#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8A012B-C707-43AA-96A8-2643369CDB04}|#2\\#2.csproj|solutionrelative:#2\\#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "#1.cs",
-              "DocumentMoniker": "C:\\Users\\the best\\source\\repos\\lab3DB\\lab3DB\\#1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-3Db\\lab3DB\\#1.cs",
               "RelativeDocumentMoniker": "lab3DB\\#1.cs",
-              "ToolTip": "C:\\Users\\the best\\source\\repos\\lab3DB\\lab3DB\\#1.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-3Db\\lab3DB\\#1.cs",
               "RelativeToolTip": "lab3DB\\#1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,24 +43,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "#2.cs",
-              "DocumentMoniker": "C:\\Users\\the best\\source\\repos\\lab3DB\\#2\\#2.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-3Db\\#2\\#2.cs",
               "RelativeDocumentMoniker": "#2\\#2.cs",
-              "ToolTip": "C:\\Users\\the best\\source\\repos\\lab3DB\\#2\\#2.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-3Db\\#2\\#2.cs",
               "RelativeToolTip": "#2\\#2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T14:21:06.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "#3.cs",
-              "DocumentMoniker": "C:\\Users\\the best\\source\\repos\\lab3DB\\#3\\#3.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-3Db\\#3\\#3.cs",
               "RelativeDocumentMoniker": "#3\\#3.cs",
-              "ToolTip": "C:\\Users\\the best\\source\\repos\\lab3DB\\#3\\#3.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-3Db\\#3\\#3.cs",
               "RelativeToolTip": "#3\\#3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

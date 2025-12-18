@@ -12,3 +12,18 @@ C:\Users\the best\source\repos\lab3DB\#2\obj\Debug\net9.0\refint\#2.dll
 C:\Users\the best\source\repos\lab3DB\#2\obj\Debug\net9.0\#2.pdb
 C:\Users\the best\source\repos\lab3DB\#2\obj\Debug\net9.0\#2.genruntimeconfig.cache
 C:\Users\the best\source\repos\lab3DB\#2\obj\Debug\net9.0\ref\#2.dll
+C:\Users\ПК\Source\Repos\lab-3Db\#2\bin\Debug\net9.0\#2.exe
+C:\Users\ПК\Source\Repos\lab-3Db\#2\bin\Debug\net9.0\#2.deps.json
+C:\Users\ПК\Source\Repos\lab-3Db\#2\bin\Debug\net9.0\#2.runtimeconfig.json
+C:\Users\ПК\Source\Repos\lab-3Db\#2\bin\Debug\net9.0\#2.dll
+C:\Users\ПК\Source\Repos\lab-3Db\#2\bin\Debug\net9.0\#2.pdb
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\#2.AssemblyInfoInputs.cache
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\#2.AssemblyInfo.cs
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\#2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\#2.sourcelink.json
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\#2.dll
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\refint\#2.dll
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\#2.pdb
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\#2.genruntimeconfig.cache
+C:\Users\ПК\Source\Repos\lab-3Db\#2\obj\Debug\net9.0\ref\#2.dll
