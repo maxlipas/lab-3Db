@@ -5,11 +5,13 @@ try
 {
     Console.Write("Введите число m: ");
     int m = int.Parse(Console.ReadLine());
-    for (int i = 100; i <= 900; i += 200)
+
+    int i = 100; 
+    while (i <= 900) 
     {
-        int res = i / m;
-        int rem = i % m;
-        Console.WriteLine($"{i} / {m} = {res} (остаток: {rem})");
+        int res = i / m;           
+        Console.WriteLine($"{i} / {m} = {res}");
+        i += 200;
     }
 }
 catch (Exception ex)

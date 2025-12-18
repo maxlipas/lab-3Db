@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\#2",
+    "\\#3",
+    "\\#4",
+    "\\lab3DB"
   ],
-  "SelectedNode": "\\lab3DB.sln",
+  "SelectedNode": "\\lab3DB\\#1.cs",
   "PreviewInSolutionExplorer": false
 }
